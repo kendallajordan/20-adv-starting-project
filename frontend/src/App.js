@@ -6,7 +6,7 @@ import EventsPage from "./pages/Events";
 import EventDetailPage from "./pages/EventDetail";
 import NewEventPage from "./pages/NewEvent";
 import EditEventPage from "./pages/EditEvent";
-
+//test
 const router = createBrowserRouter([
   {
     path: "/",
