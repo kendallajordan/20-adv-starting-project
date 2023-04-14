@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"LAN PARTY AGAIN","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lanparty.jpg/220px-Lanparty.jpg","date":"2023-04-27","description":"lesgo again","id":"db5b2763-b3c4-4177-9ff6-5bd8e8dc1de6"},{"title":"LAN party","image":"https://media.mmorpg.com/images/heroes/features/13444.jpg","date":"2023-04-20","description":"Game time with the boyz!!!!","id":"09f0b4b9-5a42-4815-8fb0-9569ed57e36d"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
